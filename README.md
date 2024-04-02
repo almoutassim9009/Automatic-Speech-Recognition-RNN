@@ -1,4 +1,3 @@
-# Automatic-Speech-Recognition-RNN-
 # Reconnaissance Automatique de la Parole avec RNN (Automatic Speech Recognition with RNN)
 
 Ce projet présente une implémentation de la reconnaissance automatique de la parole (ASR) en utilisant un réseau de neurones récurrent (RNN). Contrairement au modèle CNN qui utilise des spectrogrammes audio en entrée, le modèle RNN est conçu pour traiter les coefficients Mel-frequency cepstral (MFCC) comme entrée et prédire la classe correspondante, représentant le mot ou le phonème prononcé.
