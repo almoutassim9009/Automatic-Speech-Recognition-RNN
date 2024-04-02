@@ -14,7 +14,7 @@ Ce projet présente une implémentation de la reconnaissance automatique de la p
 
 - `speech_rnn.py`: Fichier principal contenant l'implémentation du modèle RNN pour l'ASR, ainsi que le code d'entraînement et d'évaluation du modèle.
 
-- `data_preprocessing.py`: Script de prétraitement des données audio, convertissant les fichiers audio en coefficients MFCC pour l'entraînement et l'évaluation du modèle.
+- `data_preprocessing_rnn.py`: Script de prétraitement des données audio, convertissant les fichiers audio en coefficients MFCC pour l'entraînement et l'évaluation du modèle.
 
 ## Utilisation
 
